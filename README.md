@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Welcome to my board</h1>
 
 ###
 
-<p align="center">Learning how to walk slowly to not miss important things :)</p>
+<p align="center">Always a Learner</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning ...<br>🎯 Goals: Learning<br>🎲 Fun fact: I Know You</p>
+<p align="left">✨ Exploring New techies<br>📚Always happy to help<br></p>
 
 ###
 
